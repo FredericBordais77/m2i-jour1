@@ -2,5 +2,9 @@
 
 Mon fichier Readme
 
+<<<<<<< HEAD
+modification
+=======
+
 Modification
-modif2
+>>>>>>> refs/remotes/origin/master
